@@ -1,0 +1,9 @@
+Hello Murali Sir
+Thjank you for propviding me access to GITLAB repository
+<<<<<<< HEAD
+This is the line added by Murali
+=======
+Line added by Uday
+
+>>>>>>> 13efb9a23bd1c781e77b0041cc1b3f32d5dcb312
+
